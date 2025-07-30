@@ -1,8 +1,8 @@
 {
     "gitlab_url": "https://gitlab.ow2.org",
     "gitlab_project": "ggi/my-ggi-board-test",
-    "github_url": "https://github.com",
-    "github_project": "ospo-alliance/my-ggi-board",
+    "github_url": "https://github.com/Ville-Eurometropole-Strasbourg",
+    "github_project": "Ville-Eurometropole-Strasbourg/my-ggi-board",
     "progress_labels": {
         "not_started": "Not Selected",
         "in_progress": "In Progress",
